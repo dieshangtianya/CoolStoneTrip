@@ -1,0 +1,7 @@
+Name: CoolStoneTripTheme
+Author: CoolStone Trip Team
+Website: www.coolstonetech.com
+Description: It is used to work with trip website
+Version: 1.0
+# todo: provide tags
+# Tags: Classic, Serif

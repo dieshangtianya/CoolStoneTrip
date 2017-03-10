@@ -89,6 +89,43 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CoolStoneTripTheme\Styles\css\global.css" />
+    <Content Include="CoolStoneTripTheme\Theme.png" />
+    <Content Include="CoolStoneTripTheme\Theme.txt" />
+    <Content Include="CoolStoneTripTheme\vendor\bootstrap\3.3.5\css\bootstrap-theme.css" />
+    <Content Include="CoolStoneTripTheme\vendor\bootstrap\3.3.5\css\bootstrap-theme.min.css" />
+    <Content Include="CoolStoneTripTheme\vendor\bootstrap\3.3.5\css\bootstrap.css" />
+    <Content Include="CoolStoneTripTheme\vendor\bootstrap\3.3.5\css\bootstrap.min.css" />
+    <Content Include="CoolStoneTripTheme\vendor\bootstrap\3.3.5\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="CoolStoneTripTheme\vendor\bootstrap\3.3.5\js\bootstrap.js" />
+    <Content Include="CoolStoneTripTheme\vendor\bootstrap\3.3.5\js\bootstrap.min.js" />
+    <Content Include="CoolStoneTripTheme\vendor\bootstrap\3.3.5\js\npm.js" />
+    <Content Include="CoolStoneTripTheme\vendor\font-awesome\4.5.0\css\font-awesome.css" />
+    <Content Include="CoolStoneTripTheme\vendor\font-awesome\4.5.0\css\font-awesome.min.css" />
+    <Content Include="CoolStoneTripTheme\vendor\font-awesome\4.5.0\fonts\fontawesome-webfont.svg" />
+    <Content Include="CoolStoneTripTheme\vendor\images-loaded\imagesloaded.pkgd.min.js" />
+    <Content Include="CoolStoneTripTheme\vendor\jquery-bridget\2.0.0\jquery-bridget.js" />
+    <Content Include="CoolStoneTripTheme\vendor\jquery-endless-scroll\1.8.0\jquery.endless-scroll.js" />
+    <Content Include="CoolStoneTripTheme\vendor\jquery-swipeBox\1.4.4\css\swipebox.css" />
+    <Content Include="CoolStoneTripTheme\vendor\jquery-swipeBox\1.4.4\css\swipebox.min.css" />
+    <Content Include="CoolStoneTripTheme\vendor\jquery-swipeBox\1.4.4\img\icons.png" />
+    <Content Include="CoolStoneTripTheme\vendor\jquery-swipeBox\1.4.4\img\icons.svg" />
+    <Content Include="CoolStoneTripTheme\vendor\jquery-swipeBox\1.4.4\img\loader.gif" />
+    <Content Include="CoolStoneTripTheme\vendor\jquery-swipeBox\1.4.4\js\jquery.swipebox.js" />
+    <Content Include="CoolStoneTripTheme\vendor\jquery-swipeBox\1.4.4\js\jquery.swipebox.min.js" />
+    <Content Include="CoolStoneTripTheme\vendor\jquery.dotdotdot\1.8.1\jquery.dotdotdot.min.js" />
+    <Content Include="CoolStoneTripTheme\vendor\jquery.masonry\4.0.0\masonry.pkgd.min.js" />
+    <Content Include="CoolStoneTripTheme\vendor\jquery\2.1.4\jquery.js" />
+    <Content Include="CoolStoneTripTheme\vendor\jquery\2.1.4\jquery.min.js" />
+    <Content Include="CoolStoneTripTheme\vendor\lodash\4.6.1\lodash.min.js" />
+    <Content Include="CoolStoneTripTheme\vendor\remodal\1.0.7\remodal-default-theme.css" />
+    <Content Include="CoolStoneTripTheme\vendor\remodal\1.0.7\remodal.css" />
+    <Content Include="CoolStoneTripTheme\vendor\remodal\1.0.7\remodal.js" />
+    <Content Include="CoolStoneTripTheme\vendor\remodal\1.0.7\remodal.min.js" />
+    <Content Include="CoolStoneTripTheme\vendor\requirejs-domready\domReady.js" />
+    <Content Include="CoolStoneTripTheme\vendor\require\2.1.15\require.js" />
+    <Content Include="CoolStoneTripTheme\vendor\require\2.1.15\require.min.js" />
+    <Content Include="CoolStoneTripTheme\vendor\waypoints\4.0.0\jquery.waypoints.min.js" />
     <Content Include="TheAdmin\Scripts\admin.js" />
     <Content Include="TheAdmin\Styles\ie.css" />
     <Content Include="TheAdmin\Styles\ie7.css" />
@@ -207,6 +244,29 @@
   <ItemGroup>
     <Content Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="CoolStoneTripTheme\Assets.json" />
+    <Content Include="CoolStoneTripTheme\Assets\Styles.less" />
+    <Content Include="CoolStoneTripTheme\Content\Web.config" />
+    <Content Include="CoolStoneTripTheme\Placement.info" />
+    <Content Include="CoolStoneTripTheme\Scripts\Web.config" />
+    <Content Include="CoolStoneTripTheme\Styles\Web.config" />
+    <Content Include="CoolStoneTripTheme\vendor\bootstrap\3.3.5\css\bootstrap-theme.css.map" />
+    <Content Include="CoolStoneTripTheme\vendor\bootstrap\3.3.5\css\bootstrap.css.map" />
+    <Content Include="CoolStoneTripTheme\vendor\bootstrap\3.3.5\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="CoolStoneTripTheme\vendor\bootstrap\3.3.5\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="CoolStoneTripTheme\vendor\bootstrap\3.3.5\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="CoolStoneTripTheme\vendor\bootstrap\3.3.5\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="CoolStoneTripTheme\vendor\font-awesome\4.5.0\fonts\fontawesome-webfont.eot" />
+    <Content Include="CoolStoneTripTheme\vendor\font-awesome\4.5.0\fonts\fontawesome-webfont.ttf" />
+    <Content Include="CoolStoneTripTheme\vendor\font-awesome\4.5.0\fonts\fontawesome-webfont.woff" />
+    <Content Include="CoolStoneTripTheme\vendor\font-awesome\4.5.0\fonts\fontawesome-webfont.woff2" />
+    <Content Include="CoolStoneTripTheme\vendor\font-awesome\4.5.0\fonts\FontAwesome.otf" />
+    <Content Include="CoolStoneTripTheme\Views\Document.cshtml" />
+    <Content Include="CoolStoneTripTheme\Views\Layout.cshtml" />
+    <Content Include="CoolStoneTripTheme\Web.config" />
+  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
